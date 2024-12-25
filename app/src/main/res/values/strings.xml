@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Genel metinler -->
+    <string name="app_name">Futbol Quiz</string>
+    <string name="question_text">Soru burada</string>
+
+    <!-- Seçenekler -->
+    <string name="option_1">Seçenek 1</string>
+    <string name="option_2">Seçenek 2</string>
+    <string name="option_3">Seçenek 3</string>
+    <string name="option_4">Seçenek 4</string>
+
+    <!-- Sonuçlar -->
+    <string name="correct_answers">Doğru: %1$d</string>
+    <string name="wrong_answers">Yanlış: %1$d</string>
+
+    <!-- Buton metinleri -->
+    <string name="restart_quiz">Tekrarla</string>
+
+    <!-- Quiz bitti metni -->
+    <string name="quiz_completed">Quiz bitti!</string>
+    <string name="quiz_results">Doğru: %1$d Yanlış: %2$d</string>
+
+</resources>
